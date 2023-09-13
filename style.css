@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('Screenshot_3.png'); /* Replace 'your-image.jpg' with the path to your background image */
+    background-image: url('Screenshot_3.png'); /
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -10,8 +10,8 @@ body {
 
 .container {
     padding: 100px;
-    background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent background to the content area */
-    border-radius: 10px; /* Add some rounded corners for the content area */
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 10px; 
 }
 
 h1 {
