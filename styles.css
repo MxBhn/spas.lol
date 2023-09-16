@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: #000; /* Black bar on top */
-    height: 10px; /* Adjust the height if u need to */
+    height: 10px; /* Adjust the height as needed */
 }
 
 .container {
@@ -16,13 +16,13 @@ header {
 }
 
 h1 {
-    font-size: 48px; /* font size */
+    font-size: 48px; /* Larger font size */
     color: #333; /* Dark gray text color */
 }
 
 p {
-    font-size: 24px; /* font size */
-    color: #555; /* darker gray text color */
+    font-size: 24px; /* Larger font size */
+    color: #555; /* Slightly darker gray text color */
 }
 
 .btn {
